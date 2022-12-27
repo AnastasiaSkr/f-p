@@ -1,2 +1,6 @@
-h1 {color: rgb(215, 19, 147)};
-h2 {color: rgb(76, 218, 76)};
+h1 {
+    color: rgb(215, 19, 147);
+}
+.question {
+    color: rgb(76, 218, 76);
+}
